@@ -1,5 +1,0 @@
-*.js linguist-vendored
-*.ts linguist-vendored
-*.scss linguist-vendored
-*.map linguist-vendored
-*.json linguist-vendored
