@@ -7,4 +7,4 @@
 
 
 <p>SOLID prensiplerini göz önüne alıp temellerinin oluşturulması için hazırlanmış, bir uygulamanın önyüzünden veritabanına kadar giden iş katmanı örneği bir web uygulamasıdır.</p>
-(It is a web application that is prepared to create the foundations by taking into account SOLID principles, and is an example of a business layer that goes from the frontend of an application to the database.)
+<p></p>(It is a web application that is prepared to create the foundations by taking into account SOLID principles, and is an example of a business layer that goes from the frontend of an application to the database.)</p>
