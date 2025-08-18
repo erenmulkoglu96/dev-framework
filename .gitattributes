@@ -1,4 +1,4 @@
-.js linguist-vendored=true
+*.js linguist-vendored
 "DevFramework.Northwind.MvcAngularUI/gulpfile.js"   linguist-vendored=true
 "DevFramework.Northwind.MvcAngularUI/Scripts/src/main.js" linguist-vendored=true
 "DevFramework.Northwind.MvcAngularUI/Scripts/src/polyfills.js" linguist-vendored=true
