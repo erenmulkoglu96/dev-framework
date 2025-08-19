@@ -8,4 +8,7 @@ DevFramework.Northwind.MvcAngularUI/tsScripts/src/environments/environment.ts li
 DevFramework.Northwind.MvcAngularUI/tsScripts/src/environments/environment.prod.ts linguist-vendored
 
 
- 
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/Rx.d.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/Subject.d.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/Subscriber.d.ts linguist-vendored
+
