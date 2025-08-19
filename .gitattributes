@@ -1,10 +1,11 @@
 *.js linguist-vendored
-"DevFramework.Northwind.MvcAngularUI/gulpfile.js"   linguist-vendored=true
-"DevFramework.Northwind.MvcAngularUI/Scripts/src/main.js" linguist-vendored=true
-"DevFramework.Northwind.MvcAngularUI/Scripts/src/polyfills.js" linguist-vendored=true
-"Scripts/main.js" linguist-vendored=true
-"Scripts/polyfills.js" linguist-vendored=true
-"Scripts/test.js" linguist-vendored=true
-"Scripts/app/app.component.js" linguist-vendored=true
-"Scripts/app/app.module.js" linguist-vendored=true
-"Scripts/environments/environment.js" linguist-vendored=true
+DevFramework.Northwind.MvcAngularUI/tsScripts/src/main.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/tsScripts/src/polyfills.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/tsScripts/src/test.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/tsScripts/src/app/app.module.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/tsScripts/src/app/app.component.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/tsScripts/src/environments/environment.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/tsScripts/src/environments/environment.prod.ts linguist-vendored
+
+
+ 
