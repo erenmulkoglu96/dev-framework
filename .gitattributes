@@ -9,4 +9,19 @@ DevFramework.Northwind.MvcAngularUI/tsScripts/src/environments/environment.prod.
 DevFramework.Northwind.MvcAngularUI/libs/rxjs/Rx.d.ts linguist-vendored
 DevFramework.Northwind.MvcAngularUI/libs/rxjs/Subject.d.ts linguist-vendored
 DevFramework.Northwind.MvcAngularUI/libs/rxjs/Subscriber.d.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/AsyncSubject.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/BehaviorSubject.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/InnerSubscriber.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/MiscJSDoc.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/Notification.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/Observable.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/Observer.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/Operator.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/OuterSubscriber.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/ReplaySubject.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/Rx.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/Scheduler.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/Subject.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/Subscriber.ts linguist-vendored
+DevFramework.Northwind.MvcAngularUI/libs/rxjs/src/Subscription.ts linguist-vendored
 
